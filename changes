@@ -3,9 +3,10 @@ Changelog — Soryn’s Lobby Manager v3.2.3
 New Features
 
 • Username Input on Login
-
+ - Users can input desired username on login
 • Welcome Screen with License Duration
-
+ - Informative welcome so users know their license duration
 • User Interface Improvements
-
+ - Better visual aesthetics 
 • Right-Click Changelog Access
+ - Users can right click anywhere to view recent changes
