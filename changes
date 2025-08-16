@@ -1,12 +1,31 @@
 Changelog — Soryn’s Lobby Manager v3.2.3
 
-New Features
+✨ New Features
 
 • Username Input on Login
- - Users can input desired username on login
+
+Users can input desired username on login
+
 • Welcome Screen with License Duration
- - Informative welcome so users know their license duration
+
+Informative welcome so users know their license duration
+
 • User Interface Improvements
- - Better visual aesthetics 
+
+Better visual aesthetics
+
 • Right-Click Changelog Access
- - Users can right click anywhere to view recent changes
+
+Users can right click anywhere to view recent changes
+
+• Auto Update Download Location 📥
+
+Auto updates now let you select where to download to (this update still defaults to Downloads folder, but next update will reflect your choice)
+
+• Bots Deploy Field Upgrades 🤖⚡
+
+Bots can now deploy field upgrades during matches
+
+🛠️ Fixes
+
+• Fixed a bug where closing a tab while fullscreened would make other buttons disappear or become unclickable
