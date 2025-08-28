@@ -1,4 +1,4 @@
-Changelog — Soryn’s Lobby Manager v3.2.3
+Changelog 8/27/25 — Soryn’s Lobby Manager v3.2.4
 
 ✨ New Features
 • 📝 Username Input on Login
@@ -7,6 +7,7 @@ Changelog — Soryn’s Lobby Manager v3.2.3
 • 📑 Right-Click Changelog Access
 • 📥 Auto Update Download Location (next update, still goes to Downloads)
 • 🤖⚡ Bots can now deploy field upgrades
+• ⛔ Option to disable field upgrades (used for Ranked)
 
 🛠️ Fixes
 • Fixed fullscreen tab close bug causing buttons to disappear
