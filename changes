@@ -10,5 +10,5 @@ Changelog 9/2/25 — Soryn’s Lobby Manager v3.2.5
 
 🛠️ Fixes
 • Fixed fullscreen tab close bug causing buttons to disappear
-• Fixed issue with movement which caused bots to get kicked 
-• Fixed an issue where the version in Discord RPC showed as “vv3.2.5” instead of “v3.2.5”.
+NEW • Fixed issue with movement which caused bots to get kicked 
+NEW • Fixed an issue where the version in Discord RPC showed as “vv3.2.5” instead of “v3.2.5”.
