@@ -1,13 +1,11 @@
-Changelog 9/2/25 — Soryn’s Lobby Manager v3.2.5
+Changelog 9/4/25 — Soryn’s Lobby Manager v3.3.0
 
 ✨ New Features
-• 🖥️ Welcome Screen (License Duration)
-• 🎨 UI Improvements
-• 📥 Auto Update Download Location
-• 🤖⚡ Bots can now deploy field upgrades
-• ⛔ Option to disable field upgrades (used for Ranked)
+• 🌐 Language Selector (20+ languages incl. English, Spanish, French, Dutch, Arabic, & more)
+• 🔗 Opens cloud gaming link in selected language (if supported)
+• 💾 Remembers your chosen language on reload
+• 🛡️ Added 4 new VPN servers (select one and stick to it)
 
-🛠️ Fixes
-• Fixed fullscreen tab close bug causing buttons to disappear
-NEW • Fixed issue with movement which caused bots to get kicked 
-NEW • Fixed an issue where the version in Discord RPC showed as “vv3.2.5” instead of “v3.2.5”.
+🛠️  Previous Fixes
+• Fixed issue with movement which caused bots to get kicked
+• Fixed an issue where the version in Discord RPC showed as “vv3.2.5” instead of “v3.2.5”.
