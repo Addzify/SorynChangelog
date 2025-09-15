@@ -1,11 +1,9 @@
-Changelog 9/4/25 — Soryn’s Lobby Manager v3.2.6
+Changelog 9/15/25 — Soryn’s Lobby Manager v3.3.0
 
 ✨ New Features
-• 🌐 Language Selector (20+ languages incl. English, Spanish, French, Dutch, Arabic, & more)
-• 🔗 Opens cloud gaming link in selected language (if supported)
-• 💾 Remembers your chosen language on reload
-• 🛡️ Added 4 new VPN servers (select one and stick to it)
+• 🏳️ Leave Game Button – Instantly pulls all bots out of the match (Multiplayer only)
+• 🎯 Select Class Button – If a bot gets kicked and rejoins, use this to select class again
 
-🛠️  Previous Fixes
-• Fixed issue with movement which caused bots to get kicked
-• Fixed an issue where the version in Discord RPC showed as “vv3.2.5” instead of “v3.2.5”.
+🛠 Future Plans
+• 🎮 Warzone Gamemode in selection screen (separate macros, scripts & buttons)
+• 🤝 Possibility of Auto Join Party button
