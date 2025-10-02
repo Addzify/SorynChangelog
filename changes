@@ -1,9 +1,10 @@
-Changelog 9/15/25 — Soryn’s Lobby Manager v3.3.0
+Changelog 10/02/25 — Soryn‘s Lobby Manager v3.4.0
 
 ✨ New Features
-• 🏳️ Leave Game Button – Instantly pulls all bots out of the match (Multiplayer only)
-• 🎯 Select Class Button – If a bot gets kicked and rejoins, use this to select class again
+🎮 Added Movement game mode specific presets for BO6 Multiplayer, Ranked, and Warzone (presets now save between tool sessions)
+▶️ Added Start Game Button – Auto-queues multiplayer matches (In Warzone preset, this merges with Select Class as a dual Start + Select button)
+⏹️ Added Back Out Button – Instantly stops the matchmaking queue
 
-🛠 Future Plans
-• 🎮 Warzone Gamemode in selection screen (separate macros, scripts & buttons)
-• 🤝 Possibility of Auto Join Party button
+🛠 Improvements & Fixes
+🏳️ Leave Game Button now works in Warzone due to new preset system
+🔇 Fixed bug where newly opened tabs would unmute even if “Mute Tabs” was enabled
