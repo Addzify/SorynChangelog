@@ -1,7 +1,7 @@
 Changelog 10/02/25 — Soryn‘s Lobby Manager v3.3.1
 
 ✨ New Features
-🎮 Added Movement game mode specific presets for BO6 Multiplayer, Ranked, and Warzone (presets now save between tool sessions)
+🎮 Added Movement game mode specific presets for BO6 Multiplayer, Ranked, and Warzone (presets save between tool sessions)
 ▶️ Added Start Game Button – Auto-queues multiplayer matches (In Warzone preset, this merges with Select Class as a dual Start + Select button)
 ⏹️ Added Back Out Button – Instantly stops the matchmaking queue
 
