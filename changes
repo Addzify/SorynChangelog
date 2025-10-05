@@ -1,6 +1,6 @@
 📢 Changelog 10/05/25 — Soryn‘s Lobby Manager v3.3.3
 
 🛠 Improvements & Fixes
-🔄 Fixed Movement synchronization not saving across tabs
+🔄 Fixed Movement synchronization not persisting across tabs
 ⏹️ Fixed Back Out button not working properly in Warzone
 🏳️ Fixed Leave Game button triggering on the wrong tabs in Warzone
