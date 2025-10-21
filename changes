@@ -1,5 +1,7 @@
-📢 Changelog 10/12/25 — Soryn‘s Lobby Manager v3.3.4
+📢 Changelog 10/21/25 — Soryn‘s Lobby Manager v3.3.5
 
 🛠 Improvements & Fixes
-🔄 Properly Fixed Movement synchronization not persisting across tabs
 
+⚙️ **NEW** Increased Movement Timings – Adjusted internal movement timing intervals to prevent bots from being kicked during extended sessions. Movement stability and synchronization are now more consistent across all tabs.
+
+🔄 Movement Sync Properly Fixed – Movement synchronization somehow broke again; this update ensures it now properly persists between all tabs.
