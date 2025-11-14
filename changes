@@ -1,7 +1,8 @@
-📢 Changelog 10/21/25 — Soryn‘s Lobby Manager v3.3.5
+📢 Changelog 11/14/25 — Soryn‘s Lobby Manager v4.0.0
 
-🛠 Improvements & Fixes
+✨ New Features
+🎮 Black Ops 7 Support – Full BO7 support has been added to the tool. 
 
-⚙️ **NEW** Increased Movement Timings – Adjusted internal movement timing intervals to prevent bots from being kicked during extended sessions. Movement stability and synchronization are now more consistent across all tabs.
+🛡️ Secure Loader Integration – We’ve introduced a new loader designed to protect the tool from cracking and unauthorized modifications. This is a completely normal and industry-standard security measure — the same type of protection used by nearly all cheats (also known as “chairs”) to keep their software safe and stable.
 
-🔄 Movement Sync Properly Fixed – Movement synchronization somehow broke again; this update ensures it now properly persists between all tabs.
+🔧 Minor GUI Change – Small change  improve visual appeal and give the tool a more modern feel
