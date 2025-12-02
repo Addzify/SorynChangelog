@@ -1,11 +1,8 @@
 📢 Changelog 12/02/25 — Soryn‘s Lobby Manager v5.0.0
-
 ✨ New Features
 🎨 Full GUI Overhaul – All windows, including Main, Selection, and Login, have been fully redesigned for a cleaner and more modern look.
 🤖 Join Party Macro – Bots can now auto-join their correct host with a single macro.
 ⚡ Quick Actions Panel – New options to refresh all tabs, enable auto tab focus, trigger tacticals/lethals/melee on demand, and set custom keybinds for each action.
 🧹 Fast Bot Data Clearing – Quickly clear all bot data in just a few clicks.
-
 🛠 Improvements
 ➕ Add Bot Button Update – Now styled as an inline card for easier access.
-🎨 UI Refinements – Smoother, more compact interface across the entire tool.
