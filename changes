@@ -1,8 +1,15 @@
-📢 Changelog 11/14/25 — Soryn‘s Lobby Manager v4.0.0
+📢 Changelog 12/02/25 — Soryn‘s Lobby Manager v5.0.0
 
 ✨ New Features
-🎮 Black Ops 7 Support – Full BO7 support has been added to the tool. 
+🎨 Full GUI Overhaul – Every window, including the Main, Selection, and Login screens, has been completely redesigned for a cleaner, smoother, and more modern experience.
 
-🛡️ Secure Loader Integration – We’ve introduced a new loader designed to protect the tool from cracking and unauthorized modifications. This is a completely normal and industry-standard security measure — the same type of protection used by nearly all cheats (also known as “chairs”) to keep their software safe and stable.
+⚡ Quick Actions Panel – New quick options let you refresh all tabs at once, enable auto tab focus, and perform actions like throwing tacticals, lethals, or melee on demand — all with optional custom keybinds.
 
-🔧 Minor GUI Change – Small change  improve visual appeal and give the tool a more modern feel
+🤖 Join Party Macro – Bots can now automatically join their correct host with a single macro, reducing setup time and syncing issues.
+
+🧹 Easy Bot Data Clearing – Quickly clear all bot data with just a few clicks.
+
+🛠 Improvements
+➕ Add Bot Button Update – The Add Bot button is now an inline card within the tab row, making it easier to access during setup.
+
+🎨 UI Refinements – The overall interface is more compact and responsive, improving workflow and reducing visual clutter.
